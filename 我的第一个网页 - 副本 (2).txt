@@ -1,0 +1,38 @@
+<p>你好世界，我是杜东川。</p>
+<div style="
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 40px;
+">
+<img src='https://kangwenchang.com/logo.png'alt="dudongchuan"width="80px" height="80px">
+<div>
+<div style="
+  max-widh: 700px;
+  margin: 30px auta;
+  padding: 15px;
+  line-height:1.7
+
+
+">
+<p>dwudhhuwiu</p>
+<p>第一次来校</p>
+
+
+
+
+
+
+
+
+
+
+<div>
+<div style="
+  background-color: #f1f1f1;
+  text-align: rad;
+  padding: 40px;
+  font-siize: 11px;
+">
+  <p>我的网站</p>
+  <a herf="https://dudongchuan,com/">友情链接</a>
+<div>
